@@ -17,7 +17,7 @@ class PracticalTests(unittest.TestCase):
             workspace = Path(directory).resolve()
             self.assertTrue(workspace.is_relative_to(Path(tempfile.gettempdir()).resolve()))
             root = workspace / "application"
-            shutil.copytree(ROOT, root, ignore=shutil.ignore_patterns("outputs", "state", ".venv", "__pycache__"))
+            shutil.copytree(ROOT, root, ignore=shutil.ignore_patterns("outputs", "state", ".venv", "__pycache__", ".git"))
             output = workspace / "output"
             output.mkdir()
             data = json.loads((root / "data/input.json").read_text(encoding="utf8"))
