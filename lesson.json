@@ -1,0 +1,16 @@
+{
+  "lesson": 83,
+  "title": "Contract Net Protocol",
+  "application": "Contract Net Task Award",
+  "purpose": "Issue a call for proposals, validate bids, award a capable contractor and retain explicit reject and completion records.",
+  "exercise": "Reduce budget below 5 and verify no award. Add a tie and inspect the stable contractor-ID tie-break.",
+  "source_topics": [
+    "00-Protocolo Contract Net.png",
+    "01-What-Is-the-Contract-Net-Protocol.png",
+    "02-The-Five-Protocol-Messages.png",
+    "03-Request-Bids-from-Contractors.png",
+    "04-Evaluate-and-Award-the-Task.png",
+    "05-Handle-Deadlines-and-Failures.png",
+    "06-When-to-Use-Contract-Net.png"
+  ]
+}

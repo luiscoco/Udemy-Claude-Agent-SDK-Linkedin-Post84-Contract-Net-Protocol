@@ -1,0 +1,50 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "bid_a",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_finished",
+    "stage": "bid_a",
+    "elapsed_seconds": 0.00023
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_started",
+    "stage": "bid_b",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "bid_b",
+    "elapsed_seconds": 4e-05
+  },
+  {
+    "sequence": 5,
+    "kind": "stage_started",
+    "stage": "bid_c",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 6,
+    "kind": "stage_finished",
+    "stage": "bid_c",
+    "elapsed_seconds": 2e-05
+  },
+  {
+    "sequence": 7,
+    "kind": "stage_started",
+    "stage": "awarded_a",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 8,
+    "kind": "stage_finished",
+    "stage": "awarded_a",
+    "elapsed_seconds": 1e-05
+  }
+]

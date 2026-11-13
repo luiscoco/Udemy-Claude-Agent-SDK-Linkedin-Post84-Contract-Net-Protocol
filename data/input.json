@@ -1,0 +1,22 @@
+{
+  "task": "Prepare an evidence brief",
+  "required_skill": "research",
+  "budget": 8,
+  "contractors": [
+    {
+      "id": "a",
+      "skill": "research",
+      "cost": 5
+    },
+    {
+      "id": "b",
+      "skill": "writing",
+      "cost": 3
+    },
+    {
+      "id": "c",
+      "skill": "research",
+      "cost": 7
+    }
+  ]
+}

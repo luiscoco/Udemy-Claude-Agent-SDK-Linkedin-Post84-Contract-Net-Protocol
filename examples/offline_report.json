@@ -1,0 +1,20 @@
+{
+  "lesson": 83,
+  "application": "Contract Net Task Award",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "status": "completed",
+    "winner": {
+      "contractor": "a",
+      "skill": "research",
+      "cost": 5
+    },
+    "rejected": [
+      "b",
+      "c"
+    ],
+    "result": "Prepared a local evidence brief."
+  },
+  "measured_cost_usd": null
+}
